@@ -119,3 +119,8 @@ lib/
 The app has **no login**. Anyone who can open it can use your Anthropic API key (and run up your bill) and see, edit or delete the saved recipes. It's meant for running on your own computer or home network. Don't put it on the public internet without adding authentication and usage limits first.
 
 ![Home page](docs/home.png)
+![Home page](docs/pantry-scan.png)
+![Home page](docs/voice.png)
+![Home page](docs/recipe.png)
+![Home page](docs/cook-mode.png)
+
